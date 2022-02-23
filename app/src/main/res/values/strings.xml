@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fakultas di ITB</string>
+    <string name="nama_fakultas">Nama Fakultas</string>
+    <string name="detail">Detail</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="phone_fakultas">phone</string>
+    <string name="valuekontak">valuekontak</string>
+    <string name="alamatheader">alamatheader</string>
+    <string name="alamat">alamat</string>
+    <string name="website">website</string>
+    <string name="phone">Phone :</string>
+</resources>
